@@ -1,2 +1,2 @@
 # Hell-s_Kitchen
-Github repository for Scratch based game Hell's Kitchen.
+This is the github repository for the Scratch based game Hell's Kitchen.
